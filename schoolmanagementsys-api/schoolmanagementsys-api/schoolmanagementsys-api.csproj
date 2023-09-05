@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>schoolmanagementsys_api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\schoolmanagementsys-api.Application\schoolmanagementsys-api.Application.csproj" />
+    <ProjectReference Include="..\schoolmanagementsys-api.Data\schoolmanagementsys-api.Data.csproj" />
+    <ProjectReference Include="..\schoolmanagementsys-api.Domain\schoolmanagementsys-api.Domain.csproj" />
+    <ProjectReference Include="..\schoolmanagementsys-api.Infrastructure\schoolmanagementsys-api.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CTRLII\\Documents\\Real-World-Projects\\Web_Dev_FullStack\\School-Management-Sys\\schoolmanagementsys-api\\schoolmanagementsys-api.Data\\schoolmanagementsys-api.Persistence.csproj",
-      "projectName": "schoolmanagementsys-api.Persistence",
-      "projectPath": "C:\\Users\\CTRLII\\Documents\\Real-World-Projects\\Web_Dev_FullStack\\School-Management-Sys\\schoolmanagementsys-api\\schoolmanagementsys-api.Data\\schoolmanagementsys-api.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\CTRLII\\Documents\\Real-World-Projects\\Web_Dev_FullStack\\School-Management-Sys\\schoolmanagementsys-api\\schoolmanagementsys-api.GraphQl\\schoolmanagementsys-api.GraphQl.csproj",
+      "projectName": "schoolmanagementsys-api.GraphQl",
+      "projectPath": "C:\\Users\\CTRLII\\Documents\\Real-World-Projects\\Web_Dev_FullStack\\School-Management-Sys\\schoolmanagementsys-api\\schoolmanagementsys-api.GraphQl\\schoolmanagementsys-api.GraphQl.csproj",
       "packagesPath": "C:\\Users\\CTRLII\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CTRLII\\Documents\\Real-World-Projects\\Web_Dev_FullStack\\School-Management-Sys\\schoolmanagementsys-api\\schoolmanagementsys-api.Data\\obj\\",
+      "outputPath": "C:\\Users\\CTRLII\\Documents\\Real-World-Projects\\Web_Dev_FullStack\\School-Management-Sys\\schoolmanagementsys-api\\schoolmanagementsys-api.GraphQl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

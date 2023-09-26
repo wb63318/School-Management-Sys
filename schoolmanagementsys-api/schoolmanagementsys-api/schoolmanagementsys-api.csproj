@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -13,8 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\schoolmanagementsys-api.Application\schoolmanagementsys-api.Application.csproj" />
-    <ProjectReference Include="..\schoolmanagementsys-api.Data\schoolmanagementsys-api.Data.csproj" />
-    <ProjectReference Include="..\schoolmanagementsys-api.Domain\schoolmanagementsys-api.Domain.csproj" />
     <ProjectReference Include="..\schoolmanagementsys-api.Infrastructure\schoolmanagementsys-api.Infrastructure.csproj" />
   </ItemGroup>
 

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolmanagementsys-api", "schoolmanagementsys-api\schoolmanagementsys-api.csproj", "{48EABDE0-3B66-4D86-AD6D-6278CC8A15BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "schoolmanagementsys-api", "schoolmanagementsys-api\schoolmanagementsys-api.csproj", "{48EABDE0-3B66-4D86-AD6D-6278CC8A15BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolmanagementsys-api.Domain", "schoolmanagementsys-api.Domain\schoolmanagementsys-api.Domain.csproj", "{46D30A26-63F0-4655-9739-CAB0BA078466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "schoolmanagementsys-api.Domain", "schoolmanagementsys-api.Domain\schoolmanagementsys-api.Domain.csproj", "{46D30A26-63F0-4655-9739-CAB0BA078466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolmanagementsys-api.Application", "schoolmanagementsys-api.Application\schoolmanagementsys-api.Application.csproj", "{9D860423-2BAA-42A4-AD25-08CC11069B5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "schoolmanagementsys-api.Application", "schoolmanagementsys-api.Application\schoolmanagementsys-api.Application.csproj", "{9D860423-2BAA-42A4-AD25-08CC11069B5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolmanagementsys-api.Infrastructure", "schoolmanagementsys-api.Infrastructure\schoolmanagementsys-api.Infrastructure.csproj", "{EE3C416E-E2CD-42A3-B29D-F8166EBCCA70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "schoolmanagementsys-api.Infrastructure", "schoolmanagementsys-api.Infrastructure\schoolmanagementsys-api.Infrastructure.csproj", "{EE3C416E-E2CD-42A3-B29D-F8166EBCCA70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "schoolmanagementsys-api.Data", "schoolmanagementsys-api.Data\schoolmanagementsys-api.Data.csproj", "{8BD42AA5-03D1-465C-B866-162E5E10CC23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "schoolmanagementsys-GraphQl", "schoolmanagementsys-api.Persistence\schoolmanagementsys-GraphQl.csproj", "{A7D267AF-41D9-4001-B179-C663C2719957}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{EE3C416E-E2CD-42A3-B29D-F8166EBCCA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE3C416E-E2CD-42A3-B29D-F8166EBCCA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE3C416E-E2CD-42A3-B29D-F8166EBCCA70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BD42AA5-03D1-465C-B866-162E5E10CC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BD42AA5-03D1-465C-B866-162E5E10CC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BD42AA5-03D1-465C-B866-162E5E10CC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BD42AA5-03D1-465C-B866-162E5E10CC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D267AF-41D9-4001-B179-C663C2719957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D267AF-41D9-4001-B179-C663C2719957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D267AF-41D9-4001-B179-C663C2719957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D267AF-41D9-4001-B179-C663C2719957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

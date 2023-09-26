@@ -1,0 +1,12 @@
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\bin\Debug\net6.0\schoolmanagementsys-api.Domain.deps.json
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\bin\Debug\net6.0\schoolmanagementsys-api.Domain.dll
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\bin\Debug\net6.0\schoolmanagementsys-api.Domain.pdb
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\schoolmanagementsys-api.Domain.csproj.AssemblyReference.cache
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\schoolmanagementsys-api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\schoolmanagementsys-api.Domain.AssemblyInfoInputs.cache
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\schoolmanagementsys-api.Domain.AssemblyInfo.cs
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\schoolmanagementsys-api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\schoolmanagementsys-api.Domain.dll
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\refint\schoolmanagementsys-api.Domain.dll
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\schoolmanagementsys-api.Domain.pdb
+C:\Users\CTRLII\Documents\Real-World-Projects\Web_Dev_FullStack\School-Management-Sys\schoolmanagementsys-api\schoolmanagementsys-api.Domain\obj\Debug\net6.0\ref\schoolmanagementsys-api.Domain.dll

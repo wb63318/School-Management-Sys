@@ -7,4 +7,26 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Interface\**" />
+    <EmbeddedResource Remove="Interface\**" />
+    <None Remove="Interface\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="IServices\" />
+    <Folder Include="Services\" />
+    <Folder Include="Validations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.7.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\schoolmanagementsys-api.Domain\schoolmanagementsys-api.Domain.csproj" />
+    <ProjectReference Include="..\schoolmanagementsys-api.Infrastructure\schoolmanagementsys-api.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
